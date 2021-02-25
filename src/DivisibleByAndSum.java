@@ -13,6 +13,8 @@ public class DivisibleByAndSum {
         }
         System.out.println("the sum is: " + sum + "\n");
 
-        System.out.println("Yay!! Feels great On Gitty");
+        System.out.println("Yay!! Feels great On Gitty" + "\n");
+
+        System.out.println("Trying to add this. Hah :) ");
     }
 }
